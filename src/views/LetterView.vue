@@ -72,5 +72,6 @@ img {
 
 .click{
   font-size: 28px;
+  color: black;
 }
 </style>
